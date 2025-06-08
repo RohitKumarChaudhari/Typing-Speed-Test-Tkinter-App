@@ -1,7 +1,5 @@
 import random
 from tkinter import *
-import sys
-import os
 
 APP_BACKGROUND ='#EFE4D2'
 DIALOG_BOX_BACKGROUND = APP_BACKGROUND
